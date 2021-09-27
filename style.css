@@ -1,0 +1,65 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+#taking{
+  text-align: center;
+  color: #00dd00;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.contenitore{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 30%;
+}
+
+.pulsanti {
+  display: block;
+  background-color: #00dd00;
+  text-align: center;
+}
+
+
+.Monopattino{
+  display: inline-block;
+  color: white;
+}
+
+.caricamedia {
+  height: 10px;
+  width: 200px;
+  border-radius: 10px;
+  background-color: rgba(244,180,83,255);
+}
+
+
+
+.caricaalta {
+  height: 10px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: rgb(18,209,16);
+}
+
+
+
+.caricabassa {
+  height: 10px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: rgba(188,66,65,255);
+}
